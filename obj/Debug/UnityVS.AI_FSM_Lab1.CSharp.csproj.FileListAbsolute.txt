@@ -1,0 +1,8 @@
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\obj\Debug\UnityVS.AI_FSM_Lab1.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\AI_FSM_Lab1\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
